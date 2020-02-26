@@ -6754,10 +6754,25 @@ namespace BoatHouse.Droid
 			public const int icon = 2131492864;
 			
 			// aapt resource value: 0x7F0C0001
-			public const int icon_round = 2131492865;
+			public const int icon_hdpi = 2131492865;
 			
 			// aapt resource value: 0x7F0C0002
-			public const int launcher_foreground = 2131492866;
+			public const int icon_mdpi = 2131492866;
+			
+			// aapt resource value: 0x7F0C0003
+			public const int icon_round = 2131492867;
+			
+			// aapt resource value: 0x7F0C0004
+			public const int icon_xhdpi = 2131492868;
+			
+			// aapt resource value: 0x7F0C0005
+			public const int icon_xxhdpi = 2131492869;
+			
+			// aapt resource value: 0x7F0C0006
+			public const int icon_xxxhdpi = 2131492870;
+			
+			// aapt resource value: 0x7F0C0007
+			public const int launcher_foreground = 2131492871;
 			
 			static Mipmap()
 			{
