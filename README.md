@@ -18,7 +18,8 @@ Android, IOS.
 
 ## Logo && 预览
 
-<img src="Screenshots/01iOS.png" Width="600" />
+<img src="Screenshots/01iOS.png" Width="350" />
+<img src="Screenshots/02Android.png" Width="350" />
 
 
 ## UI设计预参考
